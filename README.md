@@ -44,7 +44,7 @@ I'm an **AI Engineer** with **4+ years** of experience building scalable AI, dat
 <summary><b>More from my GitHub</b></summary>
 <br />
 
-- 📊 [PowerBI_Dashboards](https://github.com/roopchandrika/PowerBI_Dashboards): 19 Power BI dashboards on public datasets
+- 📊 [PowerBI_Dashboards](https://github.com/roopchandrika/PowerBI_Dashboards): 20 Power BI dashboards on public datasets
 - 🔀 [Data_Engineering](https://github.com/roopchandrika/Data_Engineering): 7-day data engineering sprint, one branch per day, 18+ pipelines
 - 🙂 [Real-time-Emotion-Detection](https://github.com/roopchandrika/Real-time-Emotion-Detection): CNN that reads 7 facial emotions live on a Jetson Nano
 - 🩺 [DiseasePredictionFromSymptoms](https://github.com/roopchandrika/DiseasePredictionFromSymptoms): disease prediction with a GUI, a chatbot and an IEEE paper
