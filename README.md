@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rochm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:mallelaroopchandrika@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://roopchandrika.github.io/Roop-Chandrika-Mallela.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://roopchandrika.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=roopchandrika&style=for-the-badge&color=0e75b6&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -24,6 +24,7 @@ I'm an **AI Engineer** with **4+ years** of experience building scalable AI, dat
 - 💳 **At scale:** real-time payment systems handling **15M+ transactions a day**
 - 🎓 **Education:** Master's in Data Science, **UMBC** · Bachelor's in Computer Science, **Sathyabama University** (🥇 Gold Medal, Department Topper)
 - 📍 **Location:** Farmington, Michigan, United States
+- 🌐 **Portfolio:** [roopchandrika.github.io](https://roopchandrika.github.io), with interactive deep dives and all 20 dashboards
 
 ## 🛠️ What I build
 
