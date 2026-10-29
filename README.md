@@ -22,7 +22,7 @@ I'm an **AI Engineer** with **4+ years** of experience building scalable AI, dat
 - 🏭 **Now:** AI Engineer at **ThinkDigits**, designing AI agents, building Python backend services, and developing rule-driven production scheduling systems (machine availability, worker skills, maintenance windows, materials, changeovers, priorities)
 - 🏥 **Before:** healthcare AI systems, streaming data pipelines, ML model deployment, and secure microservices
 - 💳 **At scale:** real-time payment systems handling **15M+ transactions a day**
-- 🎓 **Education:** Master's in Data Science, **UMBC** · Bachelor's in Computer Science, **Sathyabama University** (🥇 Gold Medal, Department Topper)
+- 🎓 **Education:** Master's in Data Science, **UMBC** · Bachelor's in Computer Science, **Sathyabama University** (ranked 1st in Computer Science and Engineering, Class of 2021)
 - 📍 **Location:** Farmington, Michigan, United States
 - 🌐 **Portfolio:** [roopchandrika.github.io](https://roopchandrika.github.io), with interactive deep dives and all 20 dashboards
 
